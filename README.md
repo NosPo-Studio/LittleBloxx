@@ -1,2 +1,2 @@
 # LittleBloxx
-A little 2D Minecraft inside of Minecraft (OpenComputers)
+LittleBlocc is little 2D Minecraft for the Minercraft mod OpenComputers.
